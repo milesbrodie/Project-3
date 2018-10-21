@@ -1,3 +1,10 @@
+/*
+Miles Brodie
+CS20A -- Section 4452
+Project #3
+
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
